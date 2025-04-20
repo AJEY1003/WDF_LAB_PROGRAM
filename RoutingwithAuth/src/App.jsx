@@ -17,3 +17,4 @@ function App(){
   )
 };
 export default App;
+//here i have used routes in another folder
